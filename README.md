@@ -14,3 +14,11 @@ E Fisvicw HLADMLmd X
 
 2. Локаль героблогу дор файл оерчиок
 3. git add bonon git commit awrnax
+7
+8
+
+9
+
+## Branch дээр хийсэн еерчлелт
+
+Энэ хэсгийг feature-readme branch дээр нэмсэн.
